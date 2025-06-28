@@ -1,1 +1,1 @@
-# Solving tasks from the LeetCode
+# Solving tasks from the Code Wars
